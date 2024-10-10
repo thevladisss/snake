@@ -1,4 +1,4 @@
-# Snaky.io (temp naming)
+# CATCHme (temp naming)
 
 Game that mimics and adds on the well known snake game.
 
